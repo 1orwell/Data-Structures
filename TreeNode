@@ -1,9 +1,0 @@
-public class TreeNode
-{
-  public TreeNode(int item, TreeNode left, TreeNode right)
-  {
-    this.item = item; // the data is this node.
-    this.left = left; // pointer to the left subtree
-    this.right = right; // pointer to the right subtree
-  }
-}
